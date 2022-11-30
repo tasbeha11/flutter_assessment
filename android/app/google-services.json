@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381604848990",
+    "project_id": "testing-14b33",
+    "storage_bucket": "testing-14b33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381604848990:android:2a66b51fe38e63dd6cdbcf",
+        "android_client_info": {
+          "package_name": "com.beya.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381604848990-rq8rmlppkbr2vbkrebkreg381pu1da10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA94gMAPhTVC0nOfHmw2inL9YIRkTWor0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381604848990-rq8rmlppkbr2vbkrebkreg381pu1da10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
